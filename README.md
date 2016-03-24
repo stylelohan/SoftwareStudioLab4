@@ -9,9 +9,9 @@ SoftwareStudio Lab4 2016
 
 # 組員二
 
-姓名：
+姓名：謝宜臻
 
-學號：
+學號：103062304
 
 #Screenshot
 
